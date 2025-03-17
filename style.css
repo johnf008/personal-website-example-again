@@ -1,0 +1,23 @@
+body {
+    text-align: center;
+
+    background-color:rgb(115, 214, 247);
+
+    color:rgb(63, 123, 143);
+}
+
+img {
+    width:500px;
+}
+
+a:link {
+    color: green;
+    background-color: transparent;
+    text-decoration: none;
+  }
+
+a:hover {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: underline;
+  }
